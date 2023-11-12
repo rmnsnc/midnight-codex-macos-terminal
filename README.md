@@ -1,6 +1,6 @@
 # Midnight Codex for [Visual Studio Code](http://code.visualstudio.com)
 
-> Elegance of darkness meets the precision of code. Designed for the nocturnal coder, this theme is inspired by the mystical allure of a starlit sky at midnight, providing an immersive experience for those who find their muse in the quieter hours. [Visual Studio Code](http://code.visualstudio.com).
+> Designed for the nocturnal coder, this theme is inspired by the mystical allure of a starlit sky at midnight, providing an immersive experience for those who find their muse in the quieter hours.
 
 ![Screenshot](https://raw.githubusercontent.com/rmnsnc/midnight-codex-macos-terminal/master/screenshot.png)
 
